@@ -12,7 +12,7 @@ import SearchModal from "./components/modals/SearchModal";
 const nunito = Nunito({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Airbnb",
+  title: "Airbnb clone",
   description: "Airbnb clone",
 };
 

@@ -2,7 +2,7 @@
 Airbnb Clone with features such as authentication, properties, categories, filters, and booking.
 
 ## Tech stack
-Next.js, TailwindCSS, TypeScript, Prisma, MongoDB, NextAuth, and CI/CD.
+Next.js, TailwindCSS, TypeScript, Prisma, MongoDB, and NextAuth.
 
 ## Link to the website
 https://house-finder-rent-example.vercel.app/
